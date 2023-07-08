@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to my GitHub Profile! 🎉
 
-<!--
-**meadDashSolomon/meadDashSolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Fun GIF](https://path-to-your-chosen-gif)](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif)
 
-Here are some ideas to get you started:
+Hi there, I'm **Mead Solomon**! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 🚀
+I'm an attorney turned software engineer and it has been quite a journey. The beauty of problem-solving in code appeals to me as much as it did in law. When I'm not neck-deep in code, you'd find me trying out new recipes or communing with nature. My interests in food and the outdoors keeps me happy and motivated. 
+
+I love developing unique, efficient solutions for various programming challenges, as well as collaborating on projects. 
+
+## Connect with me 🖇️
+I'm always open to connect, collaborate, or just chat about anything under the sun (or outside it). 
+Reach me at 📫 **meadsolomon@gmail.com**
+
+Have a great day!

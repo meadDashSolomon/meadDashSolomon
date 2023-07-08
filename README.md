@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile! 🎉
 
-[![Fun GIF](https://path-to-your-chosen-gif)](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif)
+![Fun GIF](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif)
 
 Hi there, I'm **Mead Solomon**! 👋
 

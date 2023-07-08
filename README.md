@@ -1,6 +1,7 @@
 ### Welcome to my GitHub Profile! 🎉
 
-![Fun GIF](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif)
+<img src="https://media4.giphy.com/media/XIqCQx02E1U9W/200.gif](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" alt = "Monkey at a Keyboard"> 
+
 
 Hi there, I'm **Mead Solomon**! 👋
 

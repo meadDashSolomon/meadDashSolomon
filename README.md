@@ -2,13 +2,6 @@
 
 I'm **Mead Dashiell Solomon**!
 
-## My Tech Stack 🎨
-Languages: JavaScript, TypeScript
-Front-End: HTML5, CSS3, React.js, TailwindCSS, Three.js
-Back-End: Node.js, Express, PostgreSQL, MongoDB, MySQL, RESTful API, Artificial Intelligence
-Testing/Deployment: Jest, Mocha, Chai, AWS (EC2 / RDS / S3)
-Developer Tools: Vim, Git, npm, Nx, Webpack, Babel, Agile Methodology, Scrum, TDD, Vite, VS Code
-
 ## About Me 🚀
 I'm a lawyer turned software engineer and it has been quite a journey! The beauty of design, problem-solving, and language drew me to tech. When I'm not knee-deep in code, you'd find me trying out new recipes or lost in the woods. My interests in food and the outdoors provide me with a break from screens and a chance to come up with new ideas. 
 
